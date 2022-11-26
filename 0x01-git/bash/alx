@@ -1,6 +1,2 @@
-#!/bin/bash
-<<<<<<< HEAD
 #!/bin/bash echo "ALX school is so cool!"
-=======
-echo "ALX School is so cool!"
->>>>>>> 7dc4d34fe3f691226638c6941231e3d02555f056
+#!/bin/bash echo "ALX School is so cool!"
